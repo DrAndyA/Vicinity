@@ -2,8 +2,9 @@
 # -*- coding: cp1252 -*-
  
 # 12 Jun 2008 flip.py to flip a string into reverse order so Baker becomes rekaB
-# Accented characters must be saved as UTF-8 in Notepad before pasting-in
+# Accented characters must be saved as UTF-8 in Notepad or WinSyntax before pasting-in
 # Author Dr Charlie Mansfield 12 June 2008, updated for Python 3 on 8.8.2016.
+# Added to hub of the gîte for projet : Vicinity 23/9/16 
  
  
 import sys, os, re
